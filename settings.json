@@ -8,7 +8,7 @@
   "server": {
     "ip": "Badmoshcrazy.aternos.me",
     "port": 32739,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
